@@ -14,7 +14,7 @@
 💻 **Web Developer** creating responsive websites with clean code and user-friendly design  
 🚀 **Started coding in 2024** – passionate about building things for the web  
 🎯 **Goal:** Build useful web applications and grow as a full-stack developer  
-📧 **Email:** [Your Email Address]  
+📧 **Email:** aanandmandal0011@gmail.com  
 🔗 **Portfolio:** [https://aanand097.github.io/](https://aanand097.github.io/)
 
 ## 🌐 Connect With Me
@@ -23,8 +23,20 @@
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://github.com/Aanand097"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:aanandmandal0011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://aanand097.github.io/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</div>
+
+## 📄 Resume / CV
+
+<div align="center">
+  <a href="https://github.com/Aanand097/Aanand097/raw/main/CV_Aanand_Kumar_Mandal.pdf">
+    <img src="https://img.shields.io/badge/📄_Download_CV-2b5a3a?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <br/>
+  <sub>👇 Or scan the QR code below to download</sub>
+  <br/>
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://github.com/Aanand097/Aanand097/raw/main/CV_Aanand_Kumar_Mandal.pdf" alt="CV QR Code" width="100"/>
 </div>
 
 ## 🛠️ Tech Stack
@@ -76,10 +88,12 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanand097&layout=compact&theme=merko&hide_border=true"/>
 </div>
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak (Auto-updates daily)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Aanand097&theme=merko&hide_border=true" />
+  <br/>
+  <sub>✨ Automatically updates with your latest contributions ✨</sub>
 </div>
 
 ## 💡 Daily Motto
@@ -97,7 +111,7 @@
   ### 📫 Let's work together!
   
   Have a project in mind or just want to say hi?  
-  Reach out via **your-email@example.com** or connect on [LinkedIn](your-linkedin-url).
+  Reach out via **aanandmandal0011@gmail.com** or connect on [LinkedIn](your-linkedin-url).
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4a9e6b,100:2b5a3a&height=100&section=footer)
   
