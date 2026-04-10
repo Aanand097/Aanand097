@@ -66,7 +66,7 @@
 | Project | Description | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
 | **BazaarHub** | Nepal's online marketplace for buying & selling locally. Features verified sellers, real-time chat, and city-based listings. | React, Firebase, Node.js | [🔗 Live Demo](https://baazarhub.netlify.app/) |
-| **SamudayikaGrovet** | Agro/Vet platform connecting farmers and veterinarians. | React, Node.js, MongoDB | - |
+| **SamudayikaGrovet** | Agro/Vet platform connecting farmers and veterinarians. | React, Node.js, MongoDB | [🔗 Live Demo](https://samudayikagrovet.netlify.app/) |
 | **Pre** | Full-stack app with user authentication and database integration. | React, Node.js, Express, MongoDB | - |
 | **Portfolio Website** | Responsive personal portfolio (this site!). | HTML5, CSS3, JavaScript | [🔗 Live Demo](https://aanand097.github.io/) |
 
