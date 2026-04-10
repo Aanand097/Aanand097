@@ -1,4 +1,4 @@
-🚀 Aanand Kumar Mandal
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5a3a,100:4a9e6b&height=200&section=header&text=Aanand%20Kumar%20Mandal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
