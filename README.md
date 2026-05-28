@@ -70,7 +70,6 @@
 | **Pre** | Full-stack app with user authentication and database integration. | React, Node.js, Express, Supabase | - |
 | Smart Service Finder | Smart Service Finder is a web platform that helps users quickly find, compare, and connect with trusted local service providers in one place. | React, Node.js, Express, MongoDB | - |
 | SlotSync  | Manage appointments and availability in real-time. | React, Node.js, Express, MongoDB | - |
-
 | **Portfolio Website** | Responsive personal portfolio (this site!). | HTML5, CSS3, JavaScript | [🔗 Live Demo](https://aanand097.github.io/) |
 
 ## 📚 Education
