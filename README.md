@@ -13,7 +13,7 @@
 💻 **Web Developer** creating responsive websites with clean code and user-friendly design  
 🚀 **Started coding in 2024** – passionate about building things for the web  
 🎯 **Goal:** Build useful web applications and grow as a full-stack developer  
-📧 **Email:** aanandmandal0011@gmail.com  
+📧 **Email:** aanandmandal0011@gmail.com, Aanandmandal64@gmail.com
 🔗 **Portfolio:** [https://aanand097.github.io/](https://aanand097.github.io/)
 
 ## 🌐 Connect With Me
