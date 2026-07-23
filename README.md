@@ -103,7 +103,7 @@
   ### 📫 Let's work together!
   
   Have a project in mind or just want to say hi?  
-  Reach out via **aanandmandal0011@gmail.com**
+  Reach out via **aanandmandal0011@gmail.com, aanandmandal64@gmail.com**
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4a9e6b,100:2b5a3a&height=100&section=footer)
   
