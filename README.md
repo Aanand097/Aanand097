@@ -31,10 +31,10 @@ I enjoy turning ideas into real-world **websites, mobile apps, and digital produ
 * 📱 **App Developer** building cross-platform mobile applications
 * ⚛️ Working with **React & React Native**
 * 🟢 Building backends with **Node.js & Express**
-* 🗄️ Working with databases such as **Supabase, MongoDB & MySQL**
+* 🗄️ Working with **Supabase, MongoDB & MySQL**
 * 🚀 Started coding in **2024**
-* 🧠 Currently improving my full-stack & app development skills
-* 🛠️ Love building projects, experimenting with new technologies & solving problems
+* 🧠 Continuously improving my development skills
+* 🛠️ Love building projects and experimenting with new technologies
 * 🎯 Goal: **Build useful products that solve real problems**
 
 > 💡 *I don't just learn technologies — I like building things with them.*
@@ -130,7 +130,7 @@ Features include:
 
 * 🌾 Agricultural product information
 * 🩺 Veterinary services
-* 📦 Product/stock management
+* 📦 Product & stock management
 * 💬 Direct communication
 * 👨‍💼 Admin management
 
@@ -140,15 +140,15 @@ Features include:
 
 ---
 
-### 🏨 HotelIN
+### 🏨 Hotel Booking
 
-**A modern hotel booking platform designed for the Nepalese market.**
+**A modern hotel booking platform designed for discovering hotels, checking availability and making online reservations.**
 
-Working towards features such as:
+Features include:
 
 * 🔎 Hotel discovery & search
 * 🏨 Hotel details
-* 🛏️ Room availability
+* 🛏️ Room & availability management
 * 📅 Online booking
 * 👤 Customer accounts
 * 🏢 Hotel owner dashboard
@@ -159,28 +159,17 @@ Working towards features such as:
 
 ---
 
-### 🍔 FoodDel
+### 🍔 Food Delivery
 
-**A food delivery platform connecting customers, restaurants and delivery riders.**
-
-Planned ecosystem:
-
-```text
-👤 Customer App
-       ↓
-🍔 Restaurant
-       ↓
-🛵 Rider App
-       ↓
-⚙️ Admin Dashboard
-```
+**A food delivery platform connecting customers, restaurants and delivery riders in one ecosystem.**
 
 Features include:
 
 * 🍕 Restaurant discovery
+* 🔎 Food & menu search
 * 🛒 Cart & ordering
 * 📍 Delivery management
-* 🛵 Rider system
+* 🛵 Rider app
 * 🏪 Restaurant dashboard
 * 💳 Payment integration
 * 📊 Admin management
@@ -191,7 +180,15 @@ Features include:
 
 ### 🧑‍🔧 Smart Service Finder
 
-A platform designed to help users **find, compare and connect with local service providers**.
+**A platform designed to help users find, compare and connect with trusted local service providers.**
+
+Features include:
+
+* 🔎 Service discovery
+* 📍 Location-based services
+* 👤 Provider profiles
+* ⭐ Service comparison
+* 📞 Provider connection
 
 **Tech:** React • Node.js • Express • MongoDB
 
@@ -199,7 +196,15 @@ A platform designed to help users **find, compare and connect with local service
 
 ### 📅 SlotSync
 
-An appointment and availability management platform.
+**An appointment and availability management platform.**
+
+Features include:
+
+* 📅 Appointment scheduling
+* ⏰ Availability management
+* 👤 User management
+* 🔔 Booking management
+* ⚙️ Backend API
 
 **Tech:** React • Node.js • Express • MongoDB
 
@@ -207,40 +212,68 @@ An appointment and availability management platform.
 
 ### 🎬 Perspective Creations
 
-A creative project focused on:
+**A creative project focused on digital media and visual content.**
 
 * 🎥 Videography
 * 📸 Photography
-* 🎞️ Video editing
-* 🎨 Digital presentation
+* 🎞️ Video Editing
+* 🎨 Digital Presentation
 
 ---
 
 ## 📱 Web + App Development
 
-I work across both web and mobile:
+I work across both web and mobile platforms.
 
 ```text
-              ┌─────────────────┐
-              │      IDEA 💡     │
-              └────────┬────────┘
+                    💡 IDEA
                        │
-             ┌─────────▼─────────┐
-             │   UI / UX 🎨      │
-             └─────────┬─────────┘
+                       ▼
+                 🎨 UI / UX
                        │
-          ┌────────────▼────────────┐
-          │                         │
-     🌐 WEB APP                📱 MOBILE APP
+          ┌────────────┴────────────┐
+          ▼                         ▼
+      🌐 WEB APP                📱 MOBILE APP
           │                         │
           └────────────┬────────────┘
+                       ▼
+                 ⚙️ BACKEND
                        │
-               ⚙️ BACKEND / API
+                       ▼
+                  🗄️ DATABASE
                        │
-                 🗄️ DATABASE
-                       │
-                 🚀 DEPLOYMENT
+                       ▼
+                  🚀 DEPLOYMENT
 ```
+
+---
+
+## 🔥 What I'm Working On
+
+```text
+🏨 Hotel Booking Platform
+🍔 Food Delivery Platform
+📱 Cross-platform Mobile Apps
+⚙️ Scalable Backend Systems
+🗄️ Database Architecture
+💳 Payment & Transaction Systems
+🤖 AI-assisted Development
+🚀 Real-world Digital Products
+```
+
+---
+
+## 🎯 Currently Learning & Improving
+
+* ⚛️ Advanced React
+* 📱 React Native & Expo
+* 🟦 TypeScript
+* 🟢 Node.js & Express
+* 🗄️ Database Design
+* 🔐 Authentication & Security
+* ☁️ Cloud & Deployment
+* 🤖 AI & AI-assisted Development
+* 🏗️ Scalable Application Architecture
 
 ---
 
@@ -276,43 +309,52 @@ I work across both web and mobile:
 
 ---
 
-## 🎯 Currently
+## 📈 GitHub Activity
 
-```text
-🔨 Building real-world web & mobile applications
-📱 Improving React Native development
-⚛️ Deepening React & TypeScript knowledge
-⚙️ Learning scalable backend architecture
-🗄️ Working with Supabase & modern databases
-🤖 Exploring AI-assisted development
-🚀 Turning ideas into usable products
-```
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aanand097&theme=merko&hide_border=true&area=true" width="95%"/>
+
+</div>
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
-🎓 **Bachelor in Information Technology (BIT)**
-Itahari International College
-**2024 – 2028**
+### 🎓 Bachelor in Information Technology (BIT)
 
-📘 **+2 Science**
-Sagarmatha Secondary School
-**2020 – 2022**
+**Itahari International College**
+2024 – 2028
 
-📗 **SEE**
-Nav Shanti Vidhyashram School
-**2020**
+### 📘 +2 Science
+
+**Sagarmatha Secondary School**
+2020 – 2022
+
+### 📗 Secondary Education Examination (SEE)
+
+**Nav Shanti Vidhyashram School**
+2020
 
 ---
 
-## 🧠 My Developer Mindset
+## 🧠 Developer Mindset
 
 ```text
-Learn → Build → Break → Debug → Improve → Repeat 🔁
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Repeat 🔁
 ```
 
-I believe the best way to learn development is to **build real projects**, make mistakes, understand why they happen, and keep improving.
+I believe the best way to learn development is to **build real projects**, understand problems, solve them, and continuously improve.
 
 ---
 
@@ -322,7 +364,7 @@ I believe the best way to learn development is to **build real projects**, make 
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -346,7 +388,7 @@ I believe the best way to learn development is to **build real projects**, make 
 
 ### 🚀 Building today. Learning every day.
 
-**Thanks for visiting my profile!**
+**Thanks for visiting my profile!** ❤️
 
 <br/>
 
