@@ -299,21 +299,11 @@ I work across both web and mobile platforms.
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Aanand097/Aanand097/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 ## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aanand097&theme=merko&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aanand097&theme=merko&hide_border=true&area=true&custom_title=Aanand%27s%20GitHub%20Activity" width="95%"/>
 
 </div>
 
@@ -361,6 +351,18 @@ I believe the best way to learn development is to **build real projects**, under
 ## 💡 Daily Motto
 
 > **"Build websites and apps that look good, work well, and help people."**
+
+---
+
+## 📄 Resume / CV
+
+<div align="center">
+
+<a href="https://github.com/Aanand097/Aanand097/raw/main/CV_Aanand_Kumar_Mandal.pdf">
+<img src="https://img.shields.io/badge/📄_Download_CV-2b5a3a?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
