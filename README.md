@@ -1,385 +1,434 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3d2b,50:2b5a3a,100:4a9e6b&height=220&section=header&text=Aanand%20Kumar%20Mandal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+# `AANAND.KM`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=900&color=4A9E6B&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Web+%26+App+Developer;BIT+Student+%7C+Tech+Enthusiast;React+%7C+React+Native+%7C+Node.js;Building+Real-World+Digital+Products" />
+### `FULL_STACK_DEVELOPER // APP_BUILDER // PRODUCT_MAKER`
+
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   █████╗ ███╗   ██╗ █████╗ ███╗   ██╗██████╗                     │
+│  ██╔══██╗████╗  ██║██╔══██╗████╗  ██║██╔══██╗                    │
+│  ███████║██╔██╗ ██║███████║██╔██╗ ██║██║  ██║                    │
+│  ██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║██║  ██║                    │
+│  ██║  ██║██║ ╚████║██║  ██║██║ ╚████║██████╔╝                    │
+│  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝                     │
+│                                                                     │
+│                BUILDING DIGITAL PRODUCTS FROM NEPAL 🇳🇵            │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+**I turn ideas → interfaces → systems → products.**
 
 <br/>
 
 <a href="https://aanand097.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-2b5a3a?style=for-the-badge&logo=About.me&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20PORTFOLIO-111111?style=for-the-badge"/>
 </a>
 <a href="https://github.com/Aanand097">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:aanandmandal0011@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%86%92%20EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01 / WHO_AM_I`
 
-Hey! I'm **Aanand Kumar Mandal**, a BIT student and developer from **Nepal** 🇳🇵.
+```yaml
+name: Aanand Kumar Mandal
+location: Nepal 🇳🇵
+education: BIT @ Itahari International College
+timeline: 2024 → 2028
 
-I enjoy turning ideas into real-world **websites, mobile apps, and digital products**.
+role:
+  - Full-Stack Developer
+  - Web Developer
+  - App Developer
+  - Product Builder
 
-* 🎓 **BIT Student** at Itahari International College
-* 💻 **Full-Stack Web Developer**
-* 📱 **App Developer** building cross-platform mobile applications
-* ⚛️ Working with **React & React Native**
-* 🟢 Building backends with **Node.js & Express**
-* 🗄️ Working with **Supabase, MongoDB & MySQL**
-* 🚀 Started coding in **2024**
-* 🧠 Continuously improving my development skills
-* 🛠️ Love building projects and experimenting with new technologies
-* 🎯 Goal: **Build useful products that solve real problems**
+started_coding: 2024
 
-> 💡 *I don't just learn technologies — I like building things with them.*
+mission:
+  "Build software that people actually use."
 
----
-
-## 🚀 What I Build
-
-```text
-🌐 Web Applications
-📱 Mobile Applications
-⚙️ REST APIs & Backend Systems
-🗄️ Database-driven Applications
-🔐 Authentication & User Management
-💬 Real-time Features
-💳 Payment & Booking Systems
-☁️ Cloud-connected Applications
-🎨 Responsive UI/UX
+currently:
+  - Building real-world applications
+  - Learning scalable architecture
+  - Exploring AI-assisted development
+  - Turning ideas into products
 ```
 
----
+I am a **BIT student and developer** who enjoys building complete products rather than stopping at a UI.
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
-</p>
-
-### 🌐 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
-
-### 📱 Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,expo" />
-</p>
-
-**React Native • Expo • Cross-platform App Development**
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database & Backend Services
-
-<p>
-<img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql,firebase" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
-</p>
+From a landing page to authentication, database design, APIs, dashboards and mobile applications — I like understanding **how the whole system works**.
 
 ---
 
-## 📂 Featured Projects
-
-### 🛒 BazaarHub
-
-**A Nepal-focused online marketplace for buying and selling products locally.**
-
-Features include:
-
-* 👤 User authentication
-* 🛍️ Product listings
-* 🔎 Search & filtering
-* 💬 Real-time messaging
-* 📍 Location-based listings
-* ❤️ Saved listings
-* 🚨 Reporting system
-* 🛡️ Admin & moderation features
-
-**Tech:** React • Supabase • JavaScript • Tailwind CSS
-
-🌐 **Live:** https://baazarhub.netlify.app/
-
----
-
-### 🌱 SamudayikaGrovet
-
-**A digital platform connecting farmers with agricultural and veterinary services.**
-
-Features include:
-
-* 🌾 Agricultural product information
-* 🩺 Veterinary services
-* 📦 Product & stock management
-* 💬 Direct communication
-* 👨‍💼 Admin management
-
-**Tech:** React • Supabase • Node.js • Tailwind CSS
-
-🌐 **Live:** https://samudayikagrovet.netlify.app/
-
----
-
-### 🏨 Hotel Booking
-
-**A modern hotel booking platform designed for discovering hotels, checking availability and making online reservations.**
-
-Features include:
-
-* 🔎 Hotel discovery & search
-* 🏨 Hotel details
-* 🛏️ Room & availability management
-* 📅 Online booking
-* 👤 Customer accounts
-* 🏢 Hotel owner dashboard
-* ⚙️ Admin panel
-* 💳 Payment integration
-
-**Tech:** React • TypeScript • Vite • Tailwind CSS • Supabase
-
----
-
-### 🍔 Food Delivery
-
-**A food delivery platform connecting customers, restaurants and delivery riders in one ecosystem.**
-
-Features include:
-
-* 🍕 Restaurant discovery
-* 🔎 Food & menu search
-* 🛒 Cart & ordering
-* 📍 Delivery management
-* 🛵 Rider app
-* 🏪 Restaurant dashboard
-* 💳 Payment integration
-* 📊 Admin management
-
-**Tech:** React Native • Expo • Supabase
-
----
-
-### 🧑‍🔧 Smart Service Finder
-
-**A platform designed to help users find, compare and connect with trusted local service providers.**
-
-Features include:
-
-* 🔎 Service discovery
-* 📍 Location-based services
-* 👤 Provider profiles
-* ⭐ Service comparison
-* 📞 Provider connection
-
-**Tech:** React • Node.js • Express • MongoDB
-
----
-
-### 📅 SlotSync
-
-**An appointment and availability management platform.**
-
-Features include:
-
-* 📅 Appointment scheduling
-* ⏰ Availability management
-* 👤 User management
-* 🔔 Booking management
-* ⚙️ Backend API
-
-**Tech:** React • Node.js • Express • MongoDB
-
----
-
-### 🎬 Perspective Creations
-
-**A creative project focused on digital media and visual content.**
-
-* 🎥 Videography
-* 📸 Photography
-* 🎞️ Video Editing
-* 🎨 Digital Presentation
-
----
-
-## 📱 Web + App Development
-
-I work across both web and mobile platforms.
-
-```text
-                    💡 IDEA
-                       │
-                       ▼
-                 🎨 UI / UX
-                       │
-          ┌────────────┴────────────┐
-          ▼                         ▼
-      🌐 WEB APP                📱 MOBILE APP
-          │                         │
-          └────────────┬────────────┘
-                       ▼
-                 ⚙️ BACKEND
-                       │
-                       ▼
-                  🗄️ DATABASE
-                       │
-                       ▼
-                  🚀 DEPLOYMENT
-```
-
----
-
-## 🔥 What I'm Working On
-
-```text
-🏨 Hotel Booking Platform
-🍔 Food Delivery Platform
-📱 Cross-platform Mobile Apps
-⚙️ Scalable Backend Systems
-🗄️ Database Architecture
-💳 Payment & Transaction Systems
-🤖 AI-assisted Development
-🚀 Real-world Digital Products
-```
-
----
-
-## 🎯 Currently Learning & Improving
-
-* ⚛️ Advanced React
-* 📱 React Native & Expo
-* 🟦 TypeScript
-* 🟢 Node.js & Express
-* 🗄️ Database Design
-* 🔐 Authentication & Security
-* ☁️ Cloud & Deployment
-* 🤖 AI & AI-assisted Development
-* 🏗️ Scalable Application Architecture
-
----
-
-## 📊 GitHub Stats
+## `02 / THE_STACK`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aanand097&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true"/>
+### `LANGUAGES`
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanand097&layout=compact&theme=merko&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python"/>
+
+### `WEB`
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+
+### `MOBILE`
+
+<img src="https://skillicons.dev/icons?i=react,expo"/>
+
+### `BACKEND`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### `DATA`
+
+<img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql,firebase"/>
+
+### `TOOLS`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## `03 / WHAT_I_ACTUALLY_BUILD`
+
+```text
+                         ┌───────────────┐
+                         │     IDEA      │
+                         └───────┬───────┘
+                                 │
+                    ┌────────────▼────────────┐
+                    │       UI / UX           │
+                    └────────────┬────────────┘
+                                 │
+               ┌─────────────────┴─────────────────┐
+               │                                   │
+        ┌──────▼──────┐                     ┌──────▼──────┐
+        │   WEB APP   │                     │  MOBILE APP │
+        └──────┬──────┘                     └──────┬──────┘
+               │                                   │
+               └─────────────────┬─────────────────┘
+                                 │
+                         ┌───────▼───────┐
+                         │   API / LOGIC │
+                         └───────┬───────┘
+                                 │
+                         ┌───────▼───────┐
+                         │    DATABASE   │
+                         └───────┬───────┘
+                                 │
+                         ┌───────▼───────┐
+                         │    DEPLOY 🚀  │
+                         └───────────────┘
+```
+
+My focus is not just writing code.
+
+**I build complete experiences.**
+
+---
+
+# `04 / PROJECTS`
+
+## `01` — 🛒 BazaarHub
+
+> **A marketplace built around local buying & selling.**
+
+```text
+PROBLEM
+People need a simple way to discover and connect with
+local buyers and sellers.
+
+BUILT
+→ Listings
+→ Search & filtering
+→ User authentication
+→ Real-time messaging
+→ Saved listings
+→ Reports & moderation
+→ Admin system
+
+STACK
+React • Supabase • JavaScript • Tailwind CSS
+```
+
+**Live →** https://baazarhub.netlify.app/
+
+---
+
+## `02` — 🌱 SamudayikaGrovet
+
+> **Technology connecting farmers with agricultural services.**
+
+```text
+FOCUS
+Agriculture + Veterinary Services
+
+BUILT
+→ Agricultural information
+→ Veterinary services
+→ Product & stock management
+→ Communication
+→ Admin management
+
+STACK
+React • Supabase • Node.js • Tailwind CSS
+```
+
+**Live →** https://samudayikagrovet.netlify.app/
+
+---
+
+## `03` — 🏨 Hotel Booking
+
+> **A complete hotel discovery & reservation ecosystem.**
+
+```text
+CUSTOMER
+→ Discover hotels
+→ Search & filter
+→ View rooms
+→ Check availability
+→ Make reservations
+
+HOTEL OWNER
+→ Manage property
+→ Manage rooms
+→ Manage availability
+→ Manage bookings
+
+ADMIN
+→ Platform management
+→ Users
+→ Hotels
+→ Bookings
+```
+
+**STACK**
+
+`React` `TypeScript` `Vite` `Tailwind` `Supabase`
+
+---
+
+## `04` — 🍔 Food Delivery
+
+> **One ecosystem connecting customers, restaurants and riders.**
+
+```text
+              CUSTOMER APP
+                   │
+                   ▼
+             PLACE ORDER
+                   │
+                   ▼
+              RESTAURANT
+                   │
+                   ▼
+              PREPARE FOOD
+                   │
+                   ▼
+                 RIDER
+                   │
+                   ▼
+                DELIVERY
+                   │
+                   ▼
+              COMPLETED ✓
+```
+
+**STACK**
+
+`React Native` `Expo` `Supabase`
+
+---
+
+## `05` — 🧑‍🔧 Smart Service Finder
+
+> Find, compare and connect with trusted local service providers.
+
+`React` `Node.js` `Express` `MongoDB`
+
+---
+
+## `06` — 📅 SlotSync
+
+> Appointment and availability management system.
+
+`React` `Node.js` `Express` `MongoDB`
+
+---
+
+## `07` — 🎬 Perspective Creations
+
+> Photography • Videography • Video Editing • Digital Media
+
+---
+
+# `05 / CURRENTLY_BUILDING`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aanand097&theme=merko&hide_border=true" />
+```text
+┌───────────────────────────────────────────────────────────┐
+│                    CURRENT WORKSPACE                      │
+├───────────────────────────────────────────────────────────┤
+│                                                           │
+│  🏨 HOTEL BOOKING          ███████████████░░░             │
+│                                                           │
+│  🍔 FOOD DELIVERY          ████████████░░░░░             │
+│                                                           │
+│  📱 MOBILE DEVELOPMENT     ████████████████░             │
+│                                                           │
+│  ⚙️ BACKEND ARCHITECTURE   ███████████░░░░░░             │
+│                                                           │
+│  🤖 AI DEVELOPMENT         ████████░░░░░░░░             │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
+# `06 / MY_DEVELOPMENT_LOOP`
+
+```text
+       THINK
+         │
+         ▼
+       DESIGN
+         │
+         ▼
+        BUILD
+         │
+         ▼
+        TEST
+         │
+         ▼
+       DEBUG
+         │
+         ▼
+       IMPROVE
+         │
+         └───────────────┐
+                         │
+                         ▼
+                       BUILD
+```
+
+### My rule:
+
+> **Don't just make it work. Understand why it works.**
+
+---
+
+# `07 / GITHUB`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aanand097&theme=merko&hide_border=true&area=true&custom_title=Aanand%27s%20GitHub%20Activity" width="95%"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aanand097&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanand097&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Aanand097&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-## 🎓 Education
+## `08 / ACTIVITY`
 
-### 🎓 Bachelor in Information Technology (BIT)
+<div align="center">
 
-**Itahari International College**
-2024 – 2028
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aanand097&bg_color=00000000&color=4a9e6b&line=4a9e6b&point=ffffff&area=true&hide_border=true&custom_title=Aanand%27s%20Development%20Activity" width="95%"/>
 
-### 📘 +2 Science
+</div>
 
-**Sagarmatha Secondary School**
-2020 – 2022
+---
 
-### 📗 Secondary Education Examination (SEE)
+# `09 / EDUCATION`
 
-**Nav Shanti Vidhyashram School**
+```text
+2024 → 2028
+
+BACHELOR IN INFORMATION TECHNOLOGY
+Itahari International College
+
+
+2020 → 2022
+
++2 SCIENCE
+Sagarmatha Secondary School
+
+
 2020
 
----
-
-## 🧠 Developer Mindset
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Repeat 🔁
+SEE
+Nav Shanti Vidhyashram School
 ```
 
-I believe the best way to learn development is to **build real projects**, understand problems, solve them, and continuously improve.
+---
+
+# `10 / BEYOND_CODE`
+
+```text
+🎮 Strategy & Online Games
+💻 Building Websites / Apps / Games
+🤖 Exploring AI
+🧩 Coding Challenges
+📚 Learning New Technologies
+🚀 Turning Ideas Into Products
+```
 
 ---
 
-## 💡 Daily Motto
-
-> **"Build websites and apps that look good, work well, and help people."**
-
----
-
-## 📄 Resume / CV
+# `11 / DEVELOPER_PHILOSOPHY`
 
 <div align="center">
 
-<a href="https://github.com/Aanand097/Aanand097/raw/main/CV_Aanand_Kumar_Mandal.pdf">
-<img src="https://img.shields.io/badge/📄_Download_CV-2b5a3a?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
+### `CODE IS THE TOOL.`
+
+### `THE PRODUCT IS THE GOAL.`
+
+<br/>
+
+**Learn → Build → Break → Understand → Improve**
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# `12 / FIND_ME`
 
 <div align="center">
 
 <a href="https://github.com/Aanand097">
-<img src="https://img.shields.io/badge/GitHub-Aanand097-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://aanand097.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-aanand097.github.io-2b5a3a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="mailto:aanandmandal0011@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -388,12 +437,15 @@ I believe the best way to learn development is to **build real projects**, under
 
 <div align="center">
 
-### 🚀 Building today. Learning every day.
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│        BUILT IN NEPAL 🇳🇵  •  SHIPPED TO THE WORLD 🌎   │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
-**Thanks for visiting my profile!** ❤️
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a9e6b,50:2b5a3a,100:1a3d2b&height=120&section=footer" width="100%"/>
+### `Thanks for stopping by. 🚀`
 
 </div>
+
