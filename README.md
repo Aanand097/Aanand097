@@ -1,451 +1,73 @@
-<div align="center">
-
-# `AANAND.KM`
-
-### `FULL_STACK_DEVELOPER // APP_BUILDER // PRODUCT_MAKER`
-
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   █████╗ ███╗   ██╗ █████╗ ███╗   ██╗██████╗                     │
-│  ██╔══██╗████╗  ██║██╔══██╗████╗  ██║██╔══██╗                    │
-│  ███████║██╔██╗ ██║███████║██╔██╗ ██║██║  ██║                    │
-│  ██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║██║  ██║                    │
-│  ██║  ██║██║ ╚████║██║  ██║██║ ╚████║██████╔╝                    │
-│  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝                     │
-│                                                                     │
-│                BUILDING DIGITAL PRODUCTS FROM NEPAL 🇳🇵            │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
 ```
-
-**I turn ideas → interfaces → systems → products.**
-
-<br/>
-
-<a href="https://aanand097.github.io/">
-<img src="https://img.shields.io/badge/%E2%86%92%20PORTFOLIO-111111?style=for-the-badge"/>
-</a>
-<a href="https://github.com/Aanand097">
-<img src="https://img.shields.io/badge/%E2%86%92%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:aanandmandal0011@gmail.com">
-<img src="https://img.shields.io/badge/%E2%86%92%20EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## `01 / WHO_AM_I`
-
-```yaml
-name: Aanand Kumar Mandal
-location: Nepal 🇳🇵
-education: BIT @ Itahari International College
-timeline: 2024 → 2028
-
-role:
-  - Full-Stack Developer
-  - Web Developer
-  - App Developer
-  - Product Builder
-
-started_coding: 2024
-
-mission:
-  "Build software that people actually use."
-
-currently:
-  - Building real-world applications
-  - Learning scalable architecture
-  - Exploring AI-assisted development
-  - Turning ideas into products
+$ whoami
 ```
-
-I am a **BIT student and developer** who enjoys building complete products rather than stopping at a UI.
-
-From a landing page to authentication, database design, APIs, dashboards and mobile applications — I like understanding **how the whole system works**.
-
----
-
-## `02 / THE_STACK`
-
-<div align="center">
-
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python"/>
-
-### `WEB`
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
-
-### `MOBILE`
-
-<img src="https://skillicons.dev/icons?i=react,expo"/>
-
-### `BACKEND`
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-### `DATA`
-
-<img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql,firebase"/>
-
-### `TOOLS`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify"/>
-
-</div>
-
----
-
-## `03 / WHAT_I_ACTUALLY_BUILD`
-
-```text
-                         ┌───────────────┐
-                         │     IDEA      │
-                         └───────┬───────┘
-                                 │
-                    ┌────────────▼────────────┐
-                    │       UI / UX           │
-                    └────────────┬────────────┘
-                                 │
-               ┌─────────────────┴─────────────────┐
-               │                                   │
-        ┌──────▼──────┐                     ┌──────▼──────┐
-        │   WEB APP   │                     │  MOBILE APP │
-        └──────┬──────┘                     └──────┬──────┘
-               │                                   │
-               └─────────────────┬─────────────────┘
-                                 │
-                         ┌───────▼───────┐
-                         │   API / LOGIC │
-                         └───────┬───────┘
-                                 │
-                         ┌───────▼───────┐
-                         │    DATABASE   │
-                         └───────┬───────┘
-                                 │
-                         ┌───────▼───────┐
-                         │    DEPLOY 🚀  │
-                         └───────────────┘
+Aanand Kumar Mandal
+I build the things I wish already existed. Marketplace for my hometown, booking
+system for a hotel that didn't have one, an app that connects farmers to vets —
+started 2024, still shipping.
+BIT student, Itahari International College · Nepal
+Portfolio · Email · CV
+<br>
+Log
 ```
-
-My focus is not just writing code.
-
-**I build complete experiences.**
-
----
-
-# `04 / PROJECTS`
-
-## `01` — 🛒 BazaarHub
-
-> **A marketplace built around local buying & selling.**
-
-```text
-PROBLEM
-People need a simple way to discover and connect with
-local buyers and sellers.
-
-BUILT
-→ Listings
-→ Search & filtering
-→ User authentication
-→ Real-time messaging
-→ Saved listings
-→ Reports & moderation
-→ Admin system
-
-STACK
-React • Supabase • JavaScript • Tailwind CSS
+2024   started coding — no shortcuts, just building
+2024   BazaarHub          — Nepal needed a local marketplace, so I made one
+2025   SamudayikaGrovet   — connected farmers to vets and stock, live
+2025   Hotel Booking      — booking systems are harder than they look
+2025   Food Delivery      — three-sided marketplace: customer, kitchen, rider
+2025   Smart Service Finder, SlotSync — still building
 ```
-
-**Live →** https://baazarhub.netlify.app/
-
+<br>
+Shipped
+BazaarHub — Nepal's local marketplace
+A place to list, search, and message about products without the platform
+getting in the way. Real users, real listings, real moderation problems
+(so: real moderation tools).
+`React` `Supabase` `Tailwind CSS`
+Live → https://baazarhub.netlify.app/
 ---
-
-## `02` — 🌱 SamudayikaGrovet
-
-> **Technology connecting farmers with agricultural services.**
-
-```text
-FOCUS
-Agriculture + Veterinary Services
-
-BUILT
-→ Agricultural information
-→ Veterinary services
-→ Product & stock management
-→ Communication
-→ Admin management
-
-STACK
-React • Supabase • Node.js • Tailwind CSS
-```
-
-**Live →** https://samudayikagrovet.netlify.app/
-
+SamudayikaGrovet — farmers meet vets
+Agriculture info, veterinary services, stock management, and a way for
+farmers to talk directly to the people who can help them, in one place.
+`React` `Supabase` `Node.js` `Tailwind CSS`
+Live → https://samudayikagrovet.netlify.app/
 ---
-
-## `03` — 🏨 Hotel Booking
-
-> **A complete hotel discovery & reservation ecosystem.**
-
-```text
-CUSTOMER
-→ Discover hotels
-→ Search & filter
-→ View rooms
-→ Check availability
-→ Make reservations
-
-HOTEL OWNER
-→ Manage property
-→ Manage rooms
-→ Manage availability
-→ Manage bookings
-
-ADMIN
-→ Platform management
-→ Users
-→ Hotels
-→ Bookings
-```
-
-**STACK**
-
-`React` `TypeScript` `Vite` `Tailwind` `Supabase`
-
+Hotel Booking Platform
+Search, availability, reservations, an owner dashboard, and payments —
+the unglamorous plumbing that makes a booking actually book.
+`React` `TypeScript` `Vite` `Supabase`
 ---
-
-## `04` — 🍔 Food Delivery
-
-> **One ecosystem connecting customers, restaurants and riders.**
-
-```text
-              CUSTOMER APP
-                   │
-                   ▼
-             PLACE ORDER
-                   │
-                   ▼
-              RESTAURANT
-                   │
-                   ▼
-              PREPARE FOOD
-                   │
-                   ▼
-                 RIDER
-                   │
-                   ▼
-                DELIVERY
-                   │
-                   ▼
-              COMPLETED ✓
-```
-
-**STACK**
-
+Food Delivery
+Three apps pretending to be one product: customer ordering, a restaurant
+dashboard, and a rider app, all reading from the same source of truth.
 `React Native` `Expo` `Supabase`
-
 ---
-
-## `05` — 🧑‍🔧 Smart Service Finder
-
-> Find, compare and connect with trusted local service providers.
-
+Smart Service Finder & SlotSync
+A directory for trusted local service providers, and a scheduling system
+for managing appointments and availability. Two different problems,
+same instinct: make finding and booking things less annoying.
 `React` `Node.js` `Express` `MongoDB`
-
----
-
-## `06` — 📅 SlotSync
-
-> Appointment and availability management system.
-
-`React` `Node.js` `Express` `MongoDB`
-
----
-
-## `07` — 🎬 Perspective Creations
-
-> Photography • Videography • Video Editing • Digital Media
-
----
-
-# `05 / CURRENTLY_BUILDING`
-
+<br>
+Stack
+	
+Languages	JavaScript, TypeScript, Python, HTML/CSS
+Frontend	React, React Native, Expo, Vite, Tailwind
+Backend	Node.js, Express
+Data	Supabase, MongoDB, MySQL, Firebase
+Tools	Git, GitHub, VS Code, Netlify
+<br>
+Right now
+Going deeper on TypeScript and system architecture — I want the next thing
+I build to survive contact with real users better than the last one did.
+Also spending time on how AI fits into the actual build process, not just
+the finished product.
+<br>
+Numbers, if you're into that
 <div align="center">
-
-```text
-┌───────────────────────────────────────────────────────────┐
-│                    CURRENT WORKSPACE                      │
-├───────────────────────────────────────────────────────────┤
-│                                                           │
-│  🏨 HOTEL BOOKING          ███████████████░░░             │
-│                                                           │
-│  🍔 FOOD DELIVERY          ████████████░░░░░             │
-│                                                           │
-│  📱 MOBILE DEVELOPMENT     ████████████████░             │
-│                                                           │
-│  ⚙️ BACKEND ARCHITECTURE   ███████████░░░░░░             │
-│                                                           │
-│  🤖 AI DEVELOPMENT         ████████░░░░░░░░             │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aanand097\&show\_icons=true\&theme=transparent\&hide\_border=true\&include\_all\_commits=true\&count\_private=true\&title\_color=4A9E6B\&icon\_color=4A9E6B\&text\_color=888"/>
+<img src="https://streak-stats.demolab.com?user=Aanand097\&theme=transparent\&hide\_border=true\&ring=4A9E6B\&fire=4A9E6B\&currStreakLabel=4A9E6B"/>
 </div>
-
+<br>
 ---
-
-# `06 / MY_DEVELOPMENT_LOOP`
-
-```text
-       THINK
-         │
-         ▼
-       DESIGN
-         │
-         ▼
-        BUILD
-         │
-         ▼
-        TEST
-         │
-         ▼
-       DEBUG
-         │
-         ▼
-       IMPROVE
-         │
-         └───────────────┐
-                         │
-                         ▼
-                       BUILD
-```
-
-### My rule:
-
-> **Don't just make it work. Understand why it works.**
-
----
-
-# `07 / GITHUB`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aanand097&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanand097&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Aanand097&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-## `08 / ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aanand097&bg_color=00000000&color=4a9e6b&line=4a9e6b&point=ffffff&area=true&hide_border=true&custom_title=Aanand%27s%20Development%20Activity" width="95%"/>
-
-</div>
-
----
-
-# `09 / EDUCATION`
-
-```text
-2024 → 2028
-
-BACHELOR IN INFORMATION TECHNOLOGY
-Itahari International College
-
-
-2020 → 2022
-
-+2 SCIENCE
-Sagarmatha Secondary School
-
-
-2020
-
-SEE
-Nav Shanti Vidhyashram School
-```
-
----
-
-# `10 / BEYOND_CODE`
-
-```text
-🎮 Strategy & Online Games
-💻 Building Websites / Apps / Games
-🤖 Exploring AI
-🧩 Coding Challenges
-📚 Learning New Technologies
-🚀 Turning Ideas Into Products
-```
-
----
-
-# `11 / DEVELOPER_PHILOSOPHY`
-
-<div align="center">
-
-### `CODE IS THE TOOL.`
-
-### `THE PRODUCT IS THE GOAL.`
-
-<br/>
-
-**Learn → Build → Break → Understand → Improve**
-
-</div>
-
----
-
-# `12 / FIND_ME`
-
-<div align="center">
-
-<a href="https://github.com/Aanand097">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://aanand097.github.io/">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:aanandmandal0011@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│        BUILT IN NEPAL 🇳🇵  •  SHIPPED TO THE WORLD 🌎   │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-### `Thanks for stopping by. 🚀`
-
-</div>
-
+"Build websites and apps that look good, work well, and help people."
+GitHub · Portfolio · aanandmandal0011@gmail.com
