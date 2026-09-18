@@ -1,7 +1,7 @@
 <div align="center">
 
 <img 
-src=".aanand.jpeg" 
+src="Aanand.jpeg" 
 width="180" 
 height="180" 
 alt="Aanand Kumar Mandal"
