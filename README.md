@@ -1,10 +1,9 @@
 <div align="center">
 
 <img 
-src="Aanand
-  jpeg" 
-width="180" 
-height="180" 
+src="./Aanand.jpeg" 
+width="300" 
+height="300" 
 alt="Aanand Kumar Mandal"
 style="border-radius: 50%; object-fit: cover;"
 />
