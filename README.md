@@ -2,7 +2,7 @@
 
 <img 
 src="./Aanand.jpeg" 
-width="45s0" 
+width="450" 
 height="300" 
 alt="Aanand Kumar Mandal"
 style="border-radius: 50%; object-fit: cover;"
