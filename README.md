@@ -7,8 +7,8 @@
 
 <img 
 src="./Aanand.jpeg"
-width="280"
-height="240"
+width="240"
+height="280"
 alt="Aanand Kumar Mandal"
 style="border-radius:50%;"
 />
