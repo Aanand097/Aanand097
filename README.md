@@ -1,4 +1,5 @@
 <div align="center">
+
 <table>
 <tr>
 
@@ -6,14 +7,13 @@
 
 <img 
 src="./Aanand.jpeg"
-width="240"
+width="280"
 height="280"
 alt="Aanand Kumar Mandal"
 style="border-radius:50%;"
 />
 
 </td>
-
 
 <td align="left">
 
@@ -44,12 +44,10 @@ style="border-radius:50%;"
 
 </tr>
 </table>
-<table>
-<tr>
-
-
 
 </div>
+
+
 
 ## 👨‍💻 About Me
 
