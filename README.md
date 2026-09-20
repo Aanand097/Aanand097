@@ -10,7 +10,7 @@ src="./Aanand.jpeg"
 width="280"
 height="280"
 alt="Aanand Kumar Mandal"
-style="border-radius: 50%; object-fit: cover;"
+style="border-radius:50%;"
 />
 
 </td>
@@ -46,6 +46,7 @@ style="border-radius: 50%; object-fit: cover;"
 </table>
 
 </div>
+
 ## 👨‍💻 About Me
 
 Hey! I'm **Aanand Kumar Mandal**, a BIT student and developer from **Nepal** 🇳🇵.
