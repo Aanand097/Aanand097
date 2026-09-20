@@ -46,8 +46,6 @@ style="border-radius: 50%; object-fit: cover;"
 </table>
 
 </div>
----
-
 ## 👨‍💻 About Me
 
 Hey! I'm **Aanand Kumar Mandal**, a BIT student and developer from **Nepal** 🇳🇵.
