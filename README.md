@@ -3,17 +3,7 @@
 <table>
 <tr>
 
-<td width="320" align="center">
 
-<img 
-src="./Aanand.jpeg"
-width="280"
-height="280"
-alt="Aanand Kumar Mandal"
-style="border-radius:50%;"
-/>
-
-</td>
 
 <td align="left">
 
@@ -39,6 +29,17 @@ style="border-radius:50%;"
     <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
+
+</td>
+<td width="320" align="center">
+
+<img 
+src="./Aanand.jpeg"
+width="280"
+height="280"
+alt="Aanand Kumar Mandal"
+style="border-radius:50%;"
+/>
 
 </td>
 
