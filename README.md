@@ -1,12 +1,20 @@
 <div align="center">
 
+<table>
+<tr>
+<td width="300" align="center">
+
 <img 
 src="./Aanand.jpeg" 
-width="300" 
-height="400" 
+width="250" 
+height="250" 
 alt="Aanand Kumar Mandal"
 style="border-radius: 50%; object-fit: cover;"
 />
+
+</td>
+
+<td align="left">
 
 <h1>Aanand Kumar Mandal</h1>
 
@@ -30,6 +38,10 @@ style="border-radius: 50%; object-fit: cover;"
     <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
