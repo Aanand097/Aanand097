@@ -2,12 +2,13 @@
 
 <table>
 <tr>
-<td width="300" align="center">
+
+<td width="320" align="center">
 
 <img 
-src="./Aanand.jpeg" 
-width="250" 
-height="250" 
+src="./Aanand.jpeg"
+width="280"
+height="280"
 alt="Aanand Kumar Mandal"
 style="border-radius: 50%; object-fit: cover;"
 />
@@ -40,11 +41,11 @@ style="border-radius: 50%; object-fit: cover;"
 </p>
 
 </td>
+
 </tr>
 </table>
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
