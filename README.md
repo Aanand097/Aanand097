@@ -7,7 +7,7 @@
 
 <td align="left">
 
-<h1>Mr. Aanand</h1>
+<h1> Aanand</h1>
 
 <h3>Full-Stack Developer • App Developer • Builder</h3>
 
