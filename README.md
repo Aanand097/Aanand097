@@ -31,6 +31,7 @@
 </p>
 
 </td>
+<!--
 <td width="320" align="center">
 <!--
 <img 
@@ -40,8 +41,9 @@ height="280"
 alt="Aanand Kumar Mandal"
 style="border-radius:50%;"
 />
--->
+<!--
 </td>
+-->
 
 </tr>
 </table>
