@@ -3,11 +3,9 @@
 <table>
 <tr>
 
-
-
 <td align="left">
 
-<h1>Mr  Aanand</h1>
+<h1>Mr Aanand</h1>
 
 <h3>Full-Stack Developer • App Developer • Builder</h3>
 
@@ -36,8 +34,6 @@
 </table>
 
 </div>
-
-
 
 ## 👨‍💻 About Me
 
@@ -439,5 +435,3 @@ I believe the best way to learn development is to **build real projects**, under
 🇳🇵 **Built from Nepal • Shipped to the world** 🌎
 
 </div>
-
-
