@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Mr Aanand</h1>
+<h1>Mr. Aanand</h1>
 
 <h3>Full-Stack Developer • App Developer • Builder</h3>
 
