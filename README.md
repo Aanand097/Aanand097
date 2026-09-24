@@ -1,10 +1,5 @@
 <div align="center">
 
-<table>
-<tr>
-
-<td align="left">
-
 <h1>Mr Aanand</h1>
 
 <h3>Full-Stack Developer • App Developer • Builder</h3>
@@ -27,11 +22,6 @@
     <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
