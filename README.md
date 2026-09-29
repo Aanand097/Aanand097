@@ -380,7 +380,7 @@ I believe the best way to learn development is to **build real projects**, under
 
 ---
 
-# 📄 Resume / CV
+# 📄 CV
 
 <div align="center">
 
