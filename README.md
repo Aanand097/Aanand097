@@ -278,7 +278,7 @@ I work across both web and mobile platforms.
 * 📱 React Native & Expo
 * 🟦 TypeScript
 * 🟢 Node.js & Express
-* 🗄️ Database Design
+* 🗄️ Database Designs
 * 🔐 Authentication & Security
 * ☁️ Cloud & Deployment
 * 🤖 AI & AI-assisted Development
