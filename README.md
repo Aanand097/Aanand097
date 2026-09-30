@@ -422,6 +422,6 @@ I believe the best way to learn development is to **build real projects**, under
 
 <br>
 
-🇳🇵 **Built from Nepal • Shipped to the world** 🌎
+🇳🇵 ** Built from Nepal • Shipped to the world ** 🌎
 
 </div>
