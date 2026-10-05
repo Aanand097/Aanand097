@@ -226,7 +226,7 @@ Features include:
 * 🎥 Videography
 * 📸 Photography
 * 🎞️ Video Editing
-* 🎨 Digital Presentation
+
 
 ---
 
